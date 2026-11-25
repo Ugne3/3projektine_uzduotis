@@ -1,0 +1,40 @@
+Uzsakymo ataskaita
+1. Dviraciai | KROSS Level 4.0 | Kaina: 950.00 Eur | Kiekis: 2 | Suma: 1900.00 Eur | Nuolaida: 0.00 Eur | Moketi: 1900.00 Eur
+2. Dviraciai | KROSS Hexagon 8.0 | Kaina: 920.00 Eur | Kiekis: 1 | Suma: 920.00 Eur | Nuolaida: 0.00 Eur | Moketi: 920.00 Eur
+3. Dviraciai | KROSS Mini 4.0 | Kaina: 290.00 Eur | Kiekis: 3 | Suma: 870.00 Eur | Nuolaida: 0.00 Eur | Moketi: 870.00 Eur
+4. Dviraciai | KROSS Level 3.0 | Kaina: 710.00 Eur | Kiekis: 2 | Suma: 1420.00 Eur | Nuolaida: 0.00 Eur | Moketi: 1420.00 Eur
+5. Dviraciai | KROSS Level 5.0 | Kaina: 1130.00 Eur | Kiekis: 1 | Suma: 1130.00 Eur | Nuolaida: 0.00 Eur | Moketi: 1130.00 Eur
+6. Dviraciai | KROSS Level 6.0 | Kaina: 1180.00 Eur | Kiekis: 2 | Suma: 2360.00 Eur | Nuolaida: 0.00 Eur | Moketi: 2360.00 Eur
+7. Dviraciai | KROSS Level 7.0 | Kaina: 1650.00 Eur | Kiekis: 1 | Suma: 1650.00 Eur | Nuolaida: 0.00 Eur | Moketi: 1650.00 Eur
+8. Dviraciai | KROSS Level 10.0 | Kaina: 2120.00 Eur | Kiekis: 1 | Suma: 2120.00 Eur | Nuolaida: 0.00 Eur | Moketi: 2120.00 Eur
+9. Dviraciai | KROSS Esker 5.0 | Kaina: 1650.00 Eur | Kiekis: 2 | Suma: 3300.00 Eur | Nuolaida: 0.00 Eur | Moketi: 3300.00 Eur
+10. Dviraciai | KROSS Esker 6.0 | Kaina: 1930.00 Eur | Kiekis: 1 | Suma: 1930.00 Eur | Nuolaida: 0.00 Eur | Moketi: 1930.00 Eur
+11. Dalys | Shimano CN-HG53 grandine | Kaina: 20.00 Eur | Kiekis: 12 | Suma: 240.00 Eur | Nuolaida: 24.00 Eur | Moketi: 216.00 Eur
+12. Dalys | MAXXIS Aspen padanga | Kaina: 52.00 Eur | Kiekis: 4 | Suma: 208.00 Eur | Nuolaida: 0.00 Eur | Moketi: 208.00 Eur
+13. Dalys | MAXXIS Rekon Race padanga | Kaina: 57.00 Eur | Kiekis: 6 | Suma: 342.00 Eur | Nuolaida: 0.00 Eur | Moketi: 342.00 Eur
+14. Dalys | Shimano CN-HG40 grandine | Kaina: 9.00 Eur | Kiekis: 15 | Suma: 135.00 Eur | Nuolaida: 13.50 Eur | Moketi: 121.50 Eur
+15. Dalys | Shimano CN-M7100 grandine | Kaina: 35.00 Eur | Kiekis: 9 | Suma: 315.00 Eur | Nuolaida: 0.00 Eur | Moketi: 315.00 Eur
+16. Dalys | Shimano CN-M8100 grandine | Kaina: 45.00 Eur | Kiekis: 10 | Suma: 450.00 Eur | Nuolaida: 45.00 Eur | Moketi: 405.00 Eur
+17. Dalys | Shimano CN-M9100 grandine | Kaina: 65.00 Eur | Kiekis: 3 | Suma: 195.00 Eur | Nuolaida: 0.00 Eur | Moketi: 195.00 Eur
+18. Dalys | MAXXIS Minion DHF 29x2.50 padanga | Kaina: 60.00 Eur | Kiekis: 8 | Suma: 480.00 Eur | Nuolaida: 0.00 Eur | Moketi: 480.00 Eur
+19. Dalys | MAXXIS Minion DHF 29x2.60 padanga | Kaina: 65.00 Eur | Kiekis: 5 | Suma: 325.00 Eur | Nuolaida: 0.00 Eur | Moketi: 325.00 Eur
+20. Dalys | MAXXIS Rambler TR 50-622 padanga | Kaina: 55.00 Eur | Kiekis: 11 | Suma: 605.00 Eur | Nuolaida: 60.50 Eur | Moketi: 544.50 Eur
+21. Aksesuarai | KROSS Capitalo salmas | Kaina: 45.00 Eur | Kiekis: 10 | Suma: 450.00 Eur | Nuolaida: 45.00 Eur | Moketi: 405.00 Eur
+22. Aksesuarai | KASK Sintesi salmas | Kaina: 100.00 Eur | Kiekis: 2 | Suma: 200.00 Eur | Nuolaida: 0.00 Eur | Moketi: 200.00 Eur
+23. Aksesuarai | KROSS Aqua Stop 16 L krepsys | Kaina: 25.00 Eur | Kiekis: 5 | Suma: 125.00 Eur | Nuolaida: 0.00 Eur | Moketi: 125.00 Eur
+24. Aksesuarai | KROSS Pure 500 ml Yellow gertuve | Kaina: 5.00 Eur | Kiekis: 20 | Suma: 100.00 Eur | Nuolaida: 10.00 Eur | Moketi: 90.00 Eur
+25. Aksesuarai | KROSS Titan 140 PSI pompa | Kaina: 43.00 Eur | Kiekis: 4 | Suma: 172.00 Eur | Nuolaida: 0.00 Eur | Moketi: 172.00 Eur
+26. Aksesuarai | KROSS Sport Ultralight 750 ml gertuve | Kaina: 8.00 Eur | Kiekis: 12 | Suma: 96.00 Eur | Nuolaida: 9.60 Eur | Moketi: 86.40 Eur
+27. Aksesuarai | KROSS KZF 450 750 mm spyna | Kaina: 65.00 Eur | Kiekis: 6 | Suma: 390.00 Eur | Nuolaida: 0.00 Eur | Moketi: 390.00 Eur
+28. Aksesuarai | KROSS Quark F2.0 USB priekinis zibintas | Kaina: 12.00 Eur | Kiekis: 9 | Suma: 108.00 Eur | Nuolaida: 0.00 Eur | Moketi: 108.00 Eur
+29. Aksesuarai | KROSS HPG 2.0 mini pompa | Kaina: 15.00 Eur | Kiekis: 10 | Suma: 150.00 Eur | Nuolaida: 15.00 Eur | Moketi: 135.00 Eur
+30. Aksesuarai | KROSS Safety F 70 lm USB-C priekinis zibintas | Kaina: 16.00 Eur | Kiekis: 14 | Suma: 224.00 Eur | Nuolaida: 22.40 Eur | Moketi: 201.60 Eur
+
+Suma pries nuolaidas: 22910.00 Eur
+Bendra nuolaida: 245.00 Eur
+Galutine moketina suma: 22665.00 Eur
+
+Sumos pagal kategorijas:
+Dviraciai: 17600.00 Eur
+Dalys: 3152.00 Eur
+Aksesuarai: 1913.00 Eur
